@@ -62,7 +62,7 @@ var generatePassword = function () {
     
     var specialcharacters = temp.join('');
     console.log(temp.join(''))
-    // how do we convert an array into a string with no commas?
+    // converted this array into a string without commas using .join method
     
     return specialcharacters
 }
